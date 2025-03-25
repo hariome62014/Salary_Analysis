@@ -23,4 +23,4 @@ This interactive **Tableau and Power BI dashboard** visualizes salary trends in 
 ## 📥 How to Use  
 1. **Clone this repository**:  
    ```sh
-   git clone https://github.com/yourusername/DataScienceSalaryDashboard.git
+   git clone https://github.com/hariome62014/Salary_Analysis.git
