@@ -1,6 +1,6 @@
 # Data Science Salary Dashboard  
 
-![Dashboard Preview](./dashboard_preview.png)  
+![Dashboard Preview](https://github.com/hariome62014/Salary_Analysis/blob/main/Dashboard%201.png)  
 
 ## 📊 Overview  
 This interactive **Tableau and Power BI dashboard** visualizes salary trends in the **data science industry** based on job title, experience level, company location, and employment type.  
